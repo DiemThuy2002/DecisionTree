@@ -1,0 +1,13 @@
+streamlit
+openpyxl
+pandas
+numpy
+streamlit_option_menu
+joblib
+scikit-learn
+plotly.graph_objects
+plotly.express
+base64
+json
+requests
+datetimess
